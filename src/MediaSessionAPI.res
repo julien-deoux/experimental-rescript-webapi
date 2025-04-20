@@ -1,5 +1,3 @@
-@@warning("-30")
-
 type mediaSessionPlaybackState =
   | @as("none") None
   | @as("paused") Paused

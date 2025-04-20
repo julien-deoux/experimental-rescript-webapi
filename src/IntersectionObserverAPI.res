@@ -1,5 +1,3 @@
-@@warning("-30")
-
 open DOMAPI
 
 @editor.completeFrom(IntersectionObserverRoot)

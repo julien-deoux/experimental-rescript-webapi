@@ -1,5 +1,3 @@
-@@warning("-30")
-
 @unboxed
 type eventType =
   | @as("abort") Abort

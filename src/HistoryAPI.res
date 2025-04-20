@@ -1,5 +1,3 @@
-@@warning("-30")
-
 type scrollRestoration =
   | @as("auto") Auto
   | @as("manual") Manual

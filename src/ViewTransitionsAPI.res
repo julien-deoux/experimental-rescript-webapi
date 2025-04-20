@@ -1,5 +1,3 @@
-@@warning("-30")
-
 /**
 [See ViewTransition on MDN](https://developer.mozilla.org/docs/Web/API/ViewTransition)
 */

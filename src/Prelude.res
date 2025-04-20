@@ -1,4 +1,3 @@
-@@warning("-30")
 type any = {}
 
 external unsafeConversation: 'tinput => 'toutput = "%identity"

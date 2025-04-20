@@ -1,4 +1,3 @@
-@@warning("-30")
 type hdrMetadataType =
   | @as("smpteSt2086") SmpteSt2086
   | @as("smpteSt2094-10") SmpteSt209410
